@@ -30,6 +30,7 @@ Successfully restored wireless connectivity. The lab was completed with a **100%
 - Command-line tools
 - Problem-solving
 
-## Notes<img width="1373" height="781" alt="Screenshot 2026-03-24 at 7 19 16 PM" src="https://github.com/user-attachments/assets/3c333f93-c3ff-4303-a9f6-f5ec0d8e8107" />
 
-This project demonstrates a real-world IT support scenario involving diagnosing and resolving network connectivity issues.<img width="810" height="662" alt="Screenshot 2026-03-24 at 7 02 10 PM" src="https://github.com/user-attachments/assets/16a9f040-4e4f-4508-a4e6-f970b36f8d10" />
+This project demonstrates a real-world IT support scenario involving diagnosing and resolving network connectivity issues.
+
+<img width="1445" height="854" alt="wireless-troubleshooting-lab png" src="https://github.com/user-attachments/assets/99d3e973-4485-4b0b-aa55-83fe62c0ad83" />
